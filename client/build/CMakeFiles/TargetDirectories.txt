@@ -1,0 +1,4 @@
+C:/Users/Yaroslav/vsCodeProjects/monitor/client/build/CMakeFiles/monitor_client.dir
+C:/Users/Yaroslav/vsCodeProjects/monitor/client/build/CMakeFiles/monitor_test.dir
+C:/Users/Yaroslav/vsCodeProjects/monitor/client/build/CMakeFiles/edit_cache.dir
+C:/Users/Yaroslav/vsCodeProjects/monitor/client/build/CMakeFiles/rebuild_cache.dir

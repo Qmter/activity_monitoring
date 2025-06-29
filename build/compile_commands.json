@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Yaroslav/vsCodeProjects/monitor/build",
+  "command": "C:/Users/Yaroslav/gcc/bin/g++.exe -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_DEBUG  -g -std=gnu++17 -o CMakeFiles/monitor_client.dir/main_simple.cpp.obj -c C:/Users/Yaroslav/vsCodeProjects/monitor/client/main_simple.cpp",
+  "file": "C:/Users/Yaroslav/vsCodeProjects/monitor/client/main_simple.cpp",
+  "output": "CMakeFiles/monitor_client.dir/main_simple.cpp.obj"
+}
+]
